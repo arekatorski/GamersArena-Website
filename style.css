@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+p{
+    color: gray;
+}
+body{
+    overflow-x: hidden;
+    background-color: #080818;
+}
+
+nav li {
+    padding: 15px;
+}
+#baner{
+    background-color: #181828;
+    color: white;
+}
+#baner-image{
+    background-image: url("img/baner-img.png");
+    opacity: 0.09;
+    background-repeat: no-repeat;
+    height: 370px;
+}
+#baner-text{
+    height: 370px;
+}
+#baner-text h1{
+    padding-left: 30px;
+    font-size: 50px;
+    padding-top: 100px;
+}
+img{
+    width: 120px;
+}
+.title-text{
+    text-align: center;
+    padding-top: 30px;
+}
+#offer{
+    text-align: center;
+    padding: 30px;
+}
+button{
+    color: white;
+    text-transform: uppercase;
+    background-color: #181828;
+    padding: 10px;
+    border-radius: 10px;
+    margin:40px;
+}
+b{
+    font-size: 74px;
+}
+#our-stats{
+    background-color: #181828;
+    text-align: center;
+    padding: 50px;
+}
+#portfolio1-box{
+    background-image: url("img/p1.jpg");
+    height: 400px;
+}
+#portfolio-box{
+    padding: 70px;
+}
+#portfolio-box-right{
+    padding: 70px;
+    text-align: right;
+}
+#about{
+    padding: 90px;
+    text-align: center;
+}
+#cooperations{
+    text-align: center;
+    background-color: #181828;
+    padding: 50px;
+}
+#contact{
+    text-align: center;
+}
+input{
+    color: white;
+    text-transform: uppercase;
+    background-color: #181828;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    width: 450px;
+    margin: 5px;
+}
+#mess{
+    height: 100px;
+}
+#footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #181828;
+}
